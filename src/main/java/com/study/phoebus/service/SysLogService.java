@@ -1,0 +1,1 @@
+package com.study.phoebus.service;import com.study.phoebus.entity.SysLog;public interface SysLogService {    void saveSysLog(SysLog sysLog);}

@@ -1,0 +1,1 @@
+package com.study.phoebus.dao.mongo;import com.study.phoebus.entity.shiro.Role;import org.springframework.data.mongodb.repository.MongoRepository;import org.springframework.stereotype.Repository;@Repositorypublic interface RoleRepository extends MongoRepository<Role,Long> {}

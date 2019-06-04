@@ -1,1 +1,0 @@
-package com.study.syslog.service;import com.study.syslog.entity.Student;import java.util.List;public interface StudentService {    void insert(Student student);    List<Student> query(String name,int age);}

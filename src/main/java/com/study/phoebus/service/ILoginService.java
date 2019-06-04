@@ -1,0 +1,1 @@
+package com.study.phoebus.service;import com.study.phoebus.entity.shiro.Role;import com.study.phoebus.entity.shiro.User;/** * @author myt_ac@163.com * @title: ILoginService * @description: TODO * @date 2019/6/416:23 */public interface ILoginService {    User addUser(User user);    Role addRole(Role role);    User findByAccount(String account);}

@@ -1,1 +1,0 @@
-package com.study.syslog.service;import com.study.syslog.entity.SysLog;public interface SysLogService {    void saveSysLog(SysLog sysLog);}
