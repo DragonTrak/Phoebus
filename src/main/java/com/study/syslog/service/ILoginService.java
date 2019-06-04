@@ -1,0 +1,1 @@
+package com.study.syslog.service;import com.study.syslog.entity.shiro.Role;import com.study.syslog.entity.shiro.User;import java.util.Map;/** * @author myt_ac@163.com * @title: ILoginService * @description: TODO * @date 2019/6/416:23 */public interface ILoginService {    User addUser(User user);    Role addRole(Role role);    User findByAccount(String account);}

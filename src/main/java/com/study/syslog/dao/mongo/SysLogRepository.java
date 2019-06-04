@@ -1,0 +1,1 @@
+package com.study.syslog.dao.mongo;import com.study.syslog.entity.SysLog;import org.springframework.data.mongodb.repository.MongoRepository;import org.springframework.stereotype.Repository;@Repositorypublic interface SysLogRepository extends MongoRepository<SysLog,Long> {}

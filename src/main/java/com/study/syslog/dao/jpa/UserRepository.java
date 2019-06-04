@@ -1,0 +1,1 @@
+//package com.study.syslog.dao.jpa;////import com.study.syslog.entity.shiro.User;//import org.springframework.stereotype.Repository;////@Repository//public interface UserRepository extends BaseRepository<User,Long>{//    User findByAccount(String account);//}

@@ -1,0 +1,1 @@
+//package com.study.syslog.dao.jpa;////import com.study.syslog.entity.shiro.Role;//import org.springframework.stereotype.Repository;////@Repository//public interface RoleRepository extends BaseRepository<Role,Long> {////}
